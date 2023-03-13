@@ -1,3 +1,4 @@
+![](docs/certificado.jpg)
 ## Kafka con Spring Boot
 
 * Java 11
